@@ -1,5 +1,0 @@
-pessoa=dict()
-pessoa['nome'] =str(input(''))
-pessoa['idade']=int(input())
-pessoa['endereco']=str(input())
-print(pessoa)
