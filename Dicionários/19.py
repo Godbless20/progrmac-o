@@ -1,5 +1,10 @@
+#Defina os dicionários cujas representações gráficas são dadas na figura a seguir:
+#◦ Permita ao usuário entrar com dados para preencher 5 cadastros.
+#◦ Encontre a pessoa com maior idade entre os cadastrados
+#◦ Encontre as pessoas do sexo masculino
+#◦ Encontre as pessoas com salário maior que 1000.
+#◦ Imprima os dados da pessoa cuja identidade seja igual a um valor fornecido pelo usuário
 vetor = list()
-
 for i in range(5):
     pessoa = dict()
     endereco = dict()
